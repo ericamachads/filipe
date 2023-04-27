@@ -1,0 +1,31 @@
+body{
+   text-align: center 
+}
+img{
+    width: 300px;
+}
+#n1{
+   background: linear-gradient( rgb(0, 238, 255) 0%, rgb(255, 255, 255) 100%);
+}
+#menu{
+list-style-type: none;
+background: linear-gradient( rgb(255, 0, 0) 0%, rgb(255, 255, 255) 100%);
+position: fixed;
+width: 100%;
+margin: 0px;
+}
+.Elements{
+   display: inline;
+padding: 20px;
+font-size: 30px;
+}
+.Elements a:hover {
+   background-color: aquamarine;
+}
+#abc{
+   font-family: 'Permanent Marker', cursive;
+   font-size: 30px;
+}
+p{
+   font-size: 20px;
+}
